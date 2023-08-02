@@ -15,3 +15,7 @@ The following topics will be covered in this unit:
   * EEG
   * ECG
   * ...
+    
+* Medical Imaging
+  * Xray
+  * ...
