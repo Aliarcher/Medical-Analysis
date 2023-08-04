@@ -12,12 +12,12 @@ The following topics will be covered in this unit:
   * ...
   
 * Biosignal
-  * EEG
-  * ECG
+  * Eye State Detection By EEG
+  * ECG Classification
   * ...
     
 * Medical Imaging
-  * Xray
+  * Covid19 Xray
   * ...
 * Medical Image Captioning
   * ...
