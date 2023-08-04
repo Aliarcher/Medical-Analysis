@@ -20,4 +20,4 @@ The following topics will be covered in this unit:
   * Covid19 Xray
   * ...
 * Medical Image Captioning
-  * Medical Xray Captioning (Comming soon)
+  * Medical Xray Caption Genration (Comming soon)
