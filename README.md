@@ -1,8 +1,6 @@
 # Medical Analysis
 
-
-https://github.com/Aliarcher/Medical-Analysis/assets/53465519/48bc96b8-6416-4fc4-85e1-c9088d836b4a
-
+https://github.com/Aliarcher/Medical-Analysis/assets/53465519/b5b3feba-5b14-4a4f-942e-6c798c13b07c
 
 
 This repository contains simple Projects in Bioinformatics, Biosignal and Medical imaging Analysis (under development....)
