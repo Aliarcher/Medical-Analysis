@@ -1,7 +1,8 @@
 # Medical Analysis
 
 
-https://github.com/Aliarcher/Medical-Analysis/assets/53465519/09fb7030-362a-4bea-9cf4-b0cc0ed12b95
+[Uploading stock-footage-medical-doctor-scientist-covid-vaccine-researcher-wearing-mask-and-suit-with-smart-mobile-virus.webm…]()
+
 
 
 
