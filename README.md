@@ -1,6 +1,8 @@
 # Medical Analysis
+<video width="320" height="240" controls>
+  <source src="https://github.com/Aliarcher/Medical-Analysis/blob/main/Medical%20Analysis.mp4" type="video/mp4">
+</video>
 
-![video](https://github.com/Aliarcher/Medical-Analysis/blob/main/Medical%20Analysis.mp4)
 
 This repository contains simple Projects in Bioinformatics, Biosignal and Medical imaging Analysis (under development....)
 ## Overview
