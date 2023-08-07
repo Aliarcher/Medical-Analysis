@@ -1,5 +1,7 @@
 # Medical Analysis
+
 https://github.com/Aliarcher/Medical-Analysis/blob/main/Medical%20Analysis.mp4
+
 This repository contains simple Projects in Bioinformatics, Biosignal and Medical imaging Analysis (under development....)
 ## Overview
 Bioinformatics, as related to genetics and genomics, is a scientific subdiscipline that involves using computer technology to collect, store, analyze and disseminate biological data and information, such as DNA and amino acid sequences or annotations about those sequences.
